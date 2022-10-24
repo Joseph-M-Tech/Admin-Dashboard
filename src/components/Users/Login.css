@@ -48,3 +48,9 @@
     background-color: red;
     transition: 0.7s;
 }
+
+@media screen and (max-width: 768px) {
+    .login {
+        display: none;
+    }
+}

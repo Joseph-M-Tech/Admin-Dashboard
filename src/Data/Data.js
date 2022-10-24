@@ -100,7 +100,7 @@ export const cardsData = [
 export const UpdatesData = [
     {
     img: img1,
-    name: "Daniel Scott",
+    name: "Nina Abdi",
     noti: "has ordered an iPhone 14 Pro max, 2 game pads ",
     time: "33 seconds ago",
     },
