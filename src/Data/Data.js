@@ -73,7 +73,7 @@ export const cardsData = [
     series: [
         {
         name: "Revenue",
-        data: [40, 100, 50, 70, 80, 30, 40],
+        data: [40, 100, 50, 70, 80, 50, 40],
         },
     ],
     },
@@ -90,7 +90,7 @@ export const cardsData = [
     series: [
         {
         name: "Expenses",
-        data: [10, 25, 15, 30, 12, 15, 20],
+        data: [40, 25, 55, 30, 12, 45, 20],
         },
     ],
     },
